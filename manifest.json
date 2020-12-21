@@ -1,0 +1,191 @@
+{
+    "author": "Kobi Zaltzberg",
+    "version": "1.0",
+    "elementor_version": "3.0.8.1",
+    "created": "2020-12-17 12:59:30",
+    "name": "hello_world",
+    "title": "hello_world",
+    "description": "",
+    "image": false,
+    "settings": [
+        "global-colors",
+        "global-typography",
+        "theme-style-typography",
+        "theme-style-buttons",
+        "theme-style-images",
+        "theme-style-form-fields",
+        "settings-site-identity",
+        "settings-background",
+        "settings-layout",
+        "settings-lightbox",
+        "settings-custom-css"
+    ],
+    "templates": [
+        {
+            "id": 1799,
+            "title": "Backstop v3 padding",
+            "library_type": "page",
+            "thumbnail": false
+        },
+        {
+            "id": 1541,
+            "title": "Birds",
+            "library_type": "page",
+            "thumbnail": false
+        },
+        {
+            "id": 2511,
+            "title": "bla",
+            "library_type": "page",
+            "thumbnail": false
+        },
+        {
+            "id": 766,
+            "title": "Button",
+            "library_type": "widget",
+            "thumbnail": false
+        },
+        {
+            "id": 2517,
+            "title": "d",
+            "library_type": "page",
+            "thumbnail": false
+        },
+        {
+            "id": 1118,
+            "title": "Elementor Footer #1118",
+            "library_type": "footer",
+            "thumbnail": false
+        },
+        {
+            "id": 1020,
+            "title": "Elementor Section #1020",
+            "library_type": "section",
+            "thumbnail": false
+        },
+        {
+            "id": 2213,
+            "title": "Global Form",
+            "library_type": "widget",
+            "thumbnail": false
+        },
+        {
+            "id": 333,
+            "title": "I't too bad that I'm single :(",
+            "library_type": "single",
+            "thumbnail": "http:\/\/localhost\/wordpress\/wp-content\/uploads\/2020\/03\/Bird-1.png"
+        },
+        {
+            "id": 1103,
+            "title": "main2",
+            "library_type": "page",
+            "thumbnail": false
+        },
+        {
+            "id": 1833,
+            "title": "My Archive",
+            "library_type": "archive",
+            "thumbnail": false
+        },
+        {
+            "id": 1885,
+            "title": "My New Page <script>alert('XSS');<\/script>",
+            "library_type": "page",
+            "thumbnail": false
+        },
+        {
+            "id": 862,
+            "title": "My Popup",
+            "library_type": "popup",
+            "thumbnail": false
+        },
+        {
+            "id": 1715,
+            "title": "test1",
+            "library_type": "page",
+            "thumbnail": false
+        },
+        {
+            "id": 44,
+            "title": "\u05db\u05d5\u05ea\u05e8\u05ea",
+            "library_type": "widget",
+            "thumbnail": false
+        }
+    ],
+    "content": {
+        "post": [
+            {
+                "id": 2427,
+                "title": "alert('xss')",
+                "post_type": "post",
+                "thumbnail": false,
+                "url": "http:\/\/localhost\/wordpress\/alertxss\/"
+            },
+            {
+                "id": 2365,
+                "title": "Elementor #2365 alert('xss')",
+                "post_type": "post",
+                "thumbnail": false,
+                "url": "http:\/\/localhost\/wordpress\/elementor-2365\/"
+            },
+            {
+                "id": 1579,
+                "title": "My Awesome Post",
+                "post_type": "post",
+                "thumbnail": "http:\/\/localhost\/wordpress\/wp-content\/uploads\/2019\/08\/41514631851_58ddf1ba72_b.jpg",
+                "url": "http:\/\/localhost\/wordpress\/my-awesome-post\/"
+            },
+            {
+                "id": 232,
+                "title": "New Post",
+                "post_type": "post",
+                "thumbnail": false,
+                "url": "http:\/\/localhost\/wordpress\/new-post\/"
+            }
+        ],
+        "page": [
+            {
+                "id": 1559,
+                "title": "Elementor #1559",
+                "post_type": "page",
+                "thumbnail": false,
+                "url": "http:\/\/localhost\/wordpress\/elementor-1559\/"
+            },
+            {
+                "id": 1462,
+                "title": "Elementor #1462",
+                "post_type": "page",
+                "thumbnail": false,
+                "url": "http:\/\/localhost\/wordpress\/elementor-1462\/"
+            },
+            {
+                "id": 1456,
+                "title": "Elementor #1456",
+                "post_type": "page",
+                "thumbnail": false,
+                "url": "http:\/\/localhost\/wordpress\/elementor-1456\/"
+            },
+            {
+                "id": 677,
+                "title": "Elementor #677",
+                "post_type": "page",
+                "thumbnail": false,
+                "url": "http:\/\/localhost\/wordpress\/elementor-677\/"
+            },
+            {
+                "id": 1,
+                "title": "Hello world!55",
+                "post_type": "page",
+                "thumbnail": "http:\/\/localhost\/wordpress\/wp-content\/uploads\/2020\/07\/Gallery3-1.png",
+                "url": "http:\/\/localhost\/wordpress\/"
+            },
+            {
+                "id": 2,
+                "title": "Sample Page",
+                "post_type": "page",
+                "thumbnail": "http:\/\/localhost\/wordpress\/wp-content\/uploads\/2019\/07\/90a2c67c-ba17-11e8-b2d9-c270ab1caed2-1020x776.jpg",
+                "url": "http:\/\/localhost\/wordpress\/sample-page\/"
+            }
+        ]
+    }
+}
